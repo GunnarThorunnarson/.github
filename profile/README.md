@@ -7,9 +7,9 @@ Í áfanganum eru grunnatriði vefforritunar kynnt. Farið er í miðlara/bi�
 |---|---|---|---|
 | 33  | Grunnatriði í net samskiptum. HTTPS staðallinn | 4  | 5  |
 | 34  | Python env - Flask Static routing | 8  | 9  |
-| 35  | Beining (dynamic routing) Jinja2 grunnsíður (Templates) | 8  | 14  |
+| 35  | Beining „dynamic routing“ og Jinja2 grunnsíður „Templates“ | 8  | 14  |
 | 36  | Json | 6 | 14  |
-| 37  | JSON/API (Application Program Interface) | 8  | 14  |
+| 37  | JSON/API | 8  | 14  |
 | 38  | Forms og vaframinni | 8 | 14  |
 | 39  | Gagnavinnsla | 8 | 14  |
 | 40 -41  | Lokaverkefni | 14 | 14  |
