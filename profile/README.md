@@ -14,6 +14,8 @@ Í áfanganum eru grunnatriði vefforritunar kynnt. Farið er í miðlara/bi�
 | 39  | Gagnavinnsla | 8 | 14  |
 | 40 -41  | Lokaverkefni | 10 | 14  |
 
+Stundatalfan er í [Innu](https://r.inna.is/)
+
 ### 👩‍💻 Lesefni og sýnidæmi
 
 * [Námsefni](https://github.com/vefthroun/namsefni/)
