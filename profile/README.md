@@ -13,9 +13,9 @@ Í áfanganum eru grunnatriði vefforritunar kynnt. Farið er í miðlara/bi�
 | 39  | Firebase | 14  |
 | 34  | Lokaverkefni | 14  |
 
-### 👩‍💻 Bjargir
+### 👩‍💻 Lesefni og sýnidæmi
 
-* [Námsefni](https://github.com/vefthroun/namsefni/wiki)
+* [Námsefni](https://github.com/vefthroun/namsefni/)
 * [Námsefni wiki](https://github.com/vefthroun/namsefni/wiki)
 
 
