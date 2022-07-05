@@ -11,7 +11,7 @@ Í áfanganum eru grunnatriði vefforritunar kynnt. Farið er í miðlara/bi�
 | 37  | Cookies & Sessions | 14  |
 | 38  | Forms | 14  |
 | 39  | Firebase | 14  |
-| 34  | Lokaverkefni | 14  |
+| 40  | Lokaverkefni | 14  |
 
 ### 👩‍💻 Lesefni og sýnidæmi
 
