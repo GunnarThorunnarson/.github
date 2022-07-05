@@ -16,7 +16,10 @@ Í áfanganum eru grunnatriði vefforritunar kynnt. Farið er í miðlara/bi�
 ### 👩‍💻 Lesefni og sýnidæmi
 
 * [Námsefni](https://github.com/vefthroun/namsefni/)
-* [Námsefni wiki](https://github.com/vefthroun/namsefni/wiki)
+* [Námsefni wiki](https://github.com/vefthroun/Namsefni/wiki)
+
+### Verkefnalýsingar
+* [Verkefni](https://github.com/vefthroun/Verkefni/)
 
 
 ### 🌈 Verkefnaskil
