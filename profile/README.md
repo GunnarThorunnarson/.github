@@ -12,7 +12,7 @@ Í áfanganum eru grunnatriði vefforritunar kynnt. Farið er í miðlara/bi�
 | 37  | JSON/API | 8  | 14  |
 | 38  | Form og vaframinni | 8 | 14  |
 | 39  | Gagnavinnsla | 8 | 14  |
-| 40 -41  | Lokaverkefni | 14 | 14  |
+| 40 -41  | Lokaverkefni | 12 | 14  |
 
 ### 👩‍💻 Lesefni og sýnidæmi
 
