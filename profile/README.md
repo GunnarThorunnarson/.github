@@ -3,15 +3,16 @@ Í áfanganum eru grunnatriði vefforritunar kynnt. Farið er í miðlara/bi�
 
 ## Námsáætlun 2022 haust. 👋 ath! í vinnslu
 
-| Vika  | Verkefni   | Vægi % |
+| Vika  | Verkefni   | Tímar | Vægi % |
 |---|---|---|
-| 34  | HTTPS staðallinn  | 5  |
-| 35  | Flask    | 9  |
-| 36  | Json | 14  |
-| 37  | Cookies & Sessions | 14  |
-| 38  | Forms | 14  |
-| 39  | Firebase | 14  |
-| 40  | Lokaverkefni | 14  |
+| 33  | Grunnatriði í net samskiptum. HTTPS staðallinn | 4  | 5  |
+| 34  | Python env - Flask Static routing | 8  | 9  |
+| 35  | Beining (dynamic routing) Jinja2 grunnsíður (Templates) | 8  | 14  |
+| 36  | Json | 6 | 14  |
+| 37  | JSON/API (Application Program Interface) | 8  | 14  |
+| 38  | Forms og vaframinni | 8 | 14  |
+| 39  | Gagnavinnsla | 8 | 14  |
+| 40 -41  | Lokaverkefni | 14 | 14  |
 
 ### 👩‍💻 Lesefni og sýnidæmi
 
