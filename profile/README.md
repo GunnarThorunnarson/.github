@@ -12,7 +12,7 @@ Í áfanganum eru grunnatriði vefforritunar kynnt. Farið er í miðlara/bi�
 | 37  | JSON/API | 8  | 14  |
 | 38  | Form og vaframinni | 8 | 14  |
 | 39  | Gagnavinnsla | 8 | 14  |
-| 40 -41  | Lokaverkefni | 10 | 14  |
+| 40 -41  | Lokaverkefni 🍿 Lykilmatsþáttur | 10 | 16  |
 
 Stundatalfan er í [Innu](https://r.inna.is/) og einkunnir birtast þar.
 
@@ -32,6 +32,6 @@ Stundatalfan er í [Innu](https://r.inna.is/) og einkunnir birtast þar.
 
 <!--
 
-🙋‍♀️ Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🙋‍♀️ Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 -->
