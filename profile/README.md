@@ -13,13 +13,15 @@ Í áfanganum eru grunnatriði vefforritunar kynnt. Farið er í miðlara/bi�
 | 39  | Firebase | 14  |
 | 34  | Lokaverkefni | 14  |
 
-### Verkefnaskil
+### 👩‍💻 Bjargir
+
+* [Námsefni](https://github.com/vefthroun/namsefni/wiki)
+
+
+### 🌈 Verkefnaskil
 
 * [Github.com/22VF](https://github.com/22vf)
 
-### Bjargir
-
-* [Námsefni](https://github.com/vefthroun/namsefni/wiki)
 
 <!--
 
@@ -27,8 +29,8 @@ Í áfanganum eru grunnatriði vefforritunar kynnt. Farið er í miðlara/bi�
 
 
 🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+ Contribution guidelines - how can the community get involved?
+Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
