@@ -16,6 +16,7 @@ Í áfanganum eru grunnatriði vefforritunar kynnt. Farið er í miðlara/bi�
 ### 👩‍💻 Bjargir
 
 * [Námsefni](https://github.com/vefthroun/namsefni/wiki)
+* [Námsefni wiki](https://github.com/vefthroun/namsefni/wiki)
 
 
 ### 🌈 Verkefnaskil
