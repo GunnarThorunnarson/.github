@@ -4,7 +4,7 @@ Í áfanganum eru grunnatriði vefforritunar kynnt. Farið er í miðlara/bi�
 ## Námsáætlun 2022 haust. 👋 ath! í vinnslu
 
 | Vika  | Verkefni   | Tímar | Vægi % |
-|---|---|---|
+|---|---|---|---|
 | 33  | Grunnatriði í net samskiptum. HTTPS staðallinn | 4  | 5  |
 | 34  | Python env - Flask Static routing | 8  | 9  |
 | 35  | Beining (dynamic routing) Jinja2 grunnsíður (Templates) | 8  | 14  |
