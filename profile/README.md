@@ -10,7 +10,7 @@ Í áfanganum eru grunnatriði vefforritunar kynnt. Farið er í miðlara/bi�
 | 35  | Beining „dynamic routing“ og Jinja2 grunnsíður „Templates“ | 8  | 14  |
 | 36  | Json | 6 | 14  |
 | 37  | JSON/API | 8  | 14  |
-| 38  | Forms og vaframinni | 8 | 14  |
+| 38  | Form og vaframinni | 8 | 14  |
 | 39  | Gagnavinnsla | 8 | 14  |
 | 40 -41  | Lokaverkefni | 14 | 14  |
 
