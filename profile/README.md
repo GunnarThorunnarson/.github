@@ -19,7 +19,6 @@ Stundatalfan er í [Innu](https://r.inna.is/) og einkunnir birtast þar.
 ### 👩‍💻 Lesefni og sýnidæmi
 
 * [Námsefni](https://github.com/vefthroun/namsefni/)
-* [Námsefni wiki](https://github.com/vefthroun/Namsefni/wiki)
 
 ### 🧙 Verkefnalýsingar
 * [Verkefni](https://github.com/vefthroun/Verkefni/)
