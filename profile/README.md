@@ -14,7 +14,6 @@ Í áfanganum eru grunnatriði vefforritunar kynnt. Farið er í miðlara/bi�
 | 39  | V.6 Gagnavinnsla | 8 | 14  |
 | 40 -41  | V.7 Lokaverkefni 🍿 Lykilmatsþáttur | 10 | 16  |
 
-Stundatalfan er í [Innu](https://r.inna.is/) og einkunnir birtast þar.
 
 ### 👩‍💻 Lesefni og sýnidæmi
 
@@ -28,9 +27,9 @@ Stundatalfan er í [Innu](https://r.inna.is/) og einkunnir birtast þar.
 
 * [Github.com/22VF](https://github.com/22vf)
 
+#### 🙋‍♀️ Stundatalfan er í [Innu](https://r.inna.is/) og einkunnir birtast þar.
 
 <!--
-
-🙋‍♀️ Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 -->
