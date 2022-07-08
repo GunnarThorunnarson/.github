@@ -15,7 +15,7 @@ Í áfanganum eru grunnatriði vefforritunar kynnt. Farið er í miðlara/bi�
 | 40 -41  | V.7 Lokaverkefni 🍿 Lykilmatsþáttur | 10 | 16  |
 
 
-### 👩‍💻 Lesefni og sýnidæmi
+### 👩‍💻 Námsefni og sýnidæmi
 
 * [Námsefni](https://github.com/vefthroun/namsefni/)
 
