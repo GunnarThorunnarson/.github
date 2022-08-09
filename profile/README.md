@@ -1,7 +1,7 @@
 # VEFÞ2VF05CU vefforritun
 Í áfanganum eru grunnatriði vefforritunar kynnt. Farið er í miðlara/biðlara uppbyggingu vefsíðna, samskipti þeirra og hlutverk hvers hluta. Nemendur vinna að smíði vefja með miðlaramáli. Lögð er áhersla á málfræði og endurnýtni á kóða í gerð vefja.
 
-## Námsáætlun 2022 haust. 👋 ath! í vinnslu
+## Námsáætlun. 2022 haust. Spönn 1. (👋 ath! í vinnslu)
 
 | Vika  | Verkefni   | Tímar | Vægi % |
 |---|---|---|---|
@@ -13,6 +13,7 @@ Í áfanganum eru grunnatriði vefforritunar kynnt. Farið er í miðlara/bi�
 | 39  | V.5 Form og vaframinni | 8 | 14  |
 | 40  | V.6 Gagnavinnsla | 8 | 14  |
 | 41  | V.7 Lokaverkefni :key: Lykilmatsþáttur | 8 | 16  |
+|   | _Síðasti kennsludagur  13/10_ |  |   |
 
 
 ### 👩‍💻 Námsefni og sýnidæmi
