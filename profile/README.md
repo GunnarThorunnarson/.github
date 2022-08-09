@@ -5,14 +5,14 @@ Í áfanganum eru grunnatriði vefforritunar kynnt. Farið er í miðlara/bi�
 
 | Vika  | Verkefni   | Tímar | Vægi % |
 |---|---|---|---|
-| 33  | V.1.1 Grunnatriði í net samskiptum. HTTPS staðallinn | 4  | 5  |
-| 34  | V.1.2 Python env - Flask Static routing | 8  | 9  |
-| 35  | V.2 Beining „dynamic routing“ og Jinja2 grunnsíður „Templates“ | 8  | 14  |
-| 36  | V.3 Json | 6 | 14  |
-| 37  | V4. JSON/API | 8  | 14  |
-| 38  | V.5 Form og vaframinni | 8 | 14  |
-| 39  | V.6 Gagnavinnsla | 8 | 14  |
-| 40 -41  | V.7 Lokaverkefni :key: Lykilmatsþáttur | 10 | 16  |
+| 34  | V.1.1 Grunnatriði í net samskiptum. V.1.2 Python Flask | 8  | 5  |
+| 35  | V.1.2 Python env - Flask Static routing | 8  | 9  |
+| 36  | V.2 Beining „dynamic routing“ og Jinja2 grunnsíður „Templates“ | 8  | 14  |
+| 37  | V.3 Json | 6 | 14  |
+| 38  | V4. JSON/API | 8  | 14  |
+| 39  | V.5 Form og vaframinni | 8 | 14  |
+| 40  | V.6 Gagnavinnsla | 8 | 14  |
+| 41  | V.7 Lokaverkefni :key: Lykilmatsþáttur | 8 | 16  |
 
 
 ### 👩‍💻 Námsefni og sýnidæmi
