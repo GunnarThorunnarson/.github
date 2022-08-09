@@ -12,7 +12,7 @@ Í áfanganum eru grunnatriði vefforritunar kynnt. Farið er í miðlara/bi�
 | 36  | V.2 Beining „dynamic routing“ og Jinja2 grunnsíður „Templates“ | 8  | 14  |
 | 37  | V.3 Json | 6 | 14  |
 | 38  | V.4 JSON/API | 8  | 14  |
-| 39  | V.5 Form og vaframinni | 8 | 14  |
+| 39  | V.5 Form og vaframinni | 6 | 14  |
 | 40  | V.6 Gagnavinnsla | 8 | 14  |
 | 41  | V.7 Lokaverkefni :key: Lykilmatsþáttur | 8 | 16  |
 |   | <sub> Námsmatsdagur 1. 06/09 - Námsmatsdagur 2. 28/09  - Síðasti kennsludagur  13/10 </sub>|  |   |
