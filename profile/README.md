@@ -12,7 +12,7 @@ Í áfanganum eru grunnatriði vefforritunar kynnt. Farið er í miðlara/bi�
 | 37  | V4. JSON/API | 8  | 14  |
 | 38  | V.5 Form og vaframinni | 8 | 14  |
 | 39  | V.6 Gagnavinnsla | 8 | 14  |
-| 40 -41  | V.7 Lokaverkefni 🍿 Lykilmatsþáttur | 10 | 16  |
+| 40 -41  | V.7 Lokaverkefni :key: Lykilmatsþáttur | 10 | 16  |
 
 
 ### 👩‍💻 Námsefni og sýnidæmi
