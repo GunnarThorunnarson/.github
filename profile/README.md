@@ -5,8 +5,8 @@ Í áfanganum eru grunnatriði vefforritunar kynnt. Farið er í miðlara/bi�
 
 | Vika  | Verkefni   | Tímar | Vægi % |
 |---|---|---|---|
-| 34  | V.1.1 Grunnatriði í net samskiptum. V.1.2 Python Flask | 8  | 5  |
-| 35  | V.1.2 Python env - Flask Static routing | 8  | 9  |
+| 34  | V.1.1 Grunnatriði í net samskiptum. V.1.2 Python env | 8  | 5  |
+| 35  | V.1.2 Python - Flask Static routing | 8  | 9  |
 | 36  | V.2 Beining „dynamic routing“ og Jinja2 grunnsíður „Templates“ | 8  | 14  |
 | 37  | V.3 Json | 6 | 14  |
 | 38  | V.4 JSON/API | 8  | 14  |
