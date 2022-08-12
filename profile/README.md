@@ -15,7 +15,7 @@ Í áfanganum eru grunnatriði vefforritunar kynnt. Farið er í miðlara/bi�
 | 39  | V.5 Form og vaframinni | 6 | 14  |
 | 40  | V.6 Gagnavinnsla | 8 | 14  |
 | 41  | V.7 Lokaverkefni :key: Lykilmatsþáttur | 8 | 16  |
-|   | <sub> Námsmatsdagar 06/09 og 28/09  - Síðasti kennsludagur  13/10 </sub>|  |   |
+|   | <sub> Námsmatsdagar 06/09 og 28/09  - Spönn lýkur  13/10 </sub>|  |   |
 
 
 ### 👩‍💻 Námsefni og sýnidæmi
