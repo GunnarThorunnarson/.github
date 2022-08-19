@@ -3,7 +3,7 @@ Í áfanganum eru grunnatriði vefforritunar kynnt. Farið er í miðlara/bi�
 
 ## Námsáætlun 
 
-#### 2022 haust, spönn 1. (👋 ath! í vinnslu)
+#### 2022 haust, spönn 1. 
 
 | Vika  | Verkefni   | Tímar | Vægi % |
 |---|---|---|---|
@@ -27,7 +27,4 @@ Í áfanganum eru grunnatriði vefforritunar kynnt. Farið er í miðlara/bi�
 
 #### 🙋‍♀️ Stundatalfan er í [Innu](https://r.inna.is/) og einkunnir birtast þar.
 
-<!--
-Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
--->
+#### 👋 [Undirbúningur og Github skráning](https://github.com/vefgrunnur/Namsefni/wiki)
