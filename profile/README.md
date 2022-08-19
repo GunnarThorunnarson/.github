@@ -18,17 +18,12 @@ Í áfanganum eru grunnatriði vefforritunar kynnt. Farið er í miðlara/bi�
 |   | <sub> Námsmatsdagar 06/09 og 28/09  - Spönn 1 lýkur  18/10 </sub>|  | 100%  |
 
 
-### 👩‍💻 Námsefni og sýnidæmi
+#### 👩‍💻 [Námsefni](https://github.com/vefthroun/namsefni/)
 
-* [Námsefni](https://github.com/vefthroun/namsefni/)
-
-### 🧙 Verkefnalýsingar
-* [Verkefni](https://github.com/vefthroun/Verkefni/)
+#### 🧙 [Verkefni](https://github.com/vefthroun/Verkefni/)
 
 
-### 🌈 Verkefnaskil
-
-* [Github.com/22VF](https://github.com/22vf)
+#### 🌈 Verkefnaskil: [Github.com/22VF](https://github.com/22vf)
 
 #### 🙋‍♀️ Stundatalfan er í [Innu](https://r.inna.is/) og einkunnir birtast þar.
 
