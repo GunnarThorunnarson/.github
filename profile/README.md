@@ -7,15 +7,15 @@ Í áfanganum eru grunnatriði vefforritunar kynnt. Farið er í miðlara/bi�
 
 | Vika  | Verkefni   | Tímar | Vægi % |
 |---|---|---|---|
-| 34  | V.1.1 Grunnatriði í net samskiptum. V.1.2 Python env | 2  | 2  |
-| 34 - 35  | V.1.2 Python - Flask Static routing | 8  | 8  |
-| 35 - 36  | V.2 Beining „dynamic routing“ og Jinja2 grunnsíður „Templates“ | 8  | 14  |
-| 37  | V.3 Json | 8 | 14  |
-| 38  | V.4 JSON/API | 8  | 14  |
+| 34  | V.1 HTTP / Python env og Flask uppsetning | 8  | 10  |
+| 35  | V.2 Routing /Templates / JSON - Dictionary | 8  |    |
+| 36  | V.2 Routing /Templates / HTML Form  | 8  | 14  |
+| 37  | V.3 Request Object / Query Strings | 8 | 14  |
+| 38  | V.4 API - JSON | 8  | 14  |
 | 39  | V.5 Form og vaframinni | 6 | 14  |
-| 40  | V.6 Gagnavinnsla | 8 | 14  |
+| 40  | V.6 Gagnagrunnar | 8 | 14  |
 | 41  | V.7 Lokaverkefni :key: Lykilmatsþáttur | 8 | 20  |
-|   | <sub> Námsmatsdagar 06/09 og 28/09  - Spönn lýkur  13/10 </sub>|  | 100%  |
+|   | <sub> Námsmatsdagar 06/09 og 28/09  - Spönn 1 lýkur  18/10 </sub>|  | 100%  |
 
 
 ### 👩‍💻 Námsefni og sýnidæmi
